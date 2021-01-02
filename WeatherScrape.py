@@ -2,8 +2,6 @@ from msedge.selenium_tools import Edge, EdgeOptions
 import time as t
 import sys
 
-# Global variables:
-
 # Options for Microsoft Edge
 options = EdgeOptions()
 options.use_chromium = True
