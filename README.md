@@ -17,7 +17,7 @@ path = r'C:\Users\farma\Downloads\edgedriver\msedgedriver.exe'
 ```
 * If you're using Chrome or any other browser, check how it's implemented and modify the code accordingly.
 * BeautifulSoup library can also be used instead of Gazpacho.
-* Also make sure you've installed everything that's meantioned in the requirements. Else it ain't gonna work.
+* Also make sure you've installed everything that's mentioned in the requirements. Else it ain't gonna work.
 # Credits:
 * All data has been scraped from: https://weather.com/en-IN/
 
