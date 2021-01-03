@@ -2,7 +2,7 @@
 A Command Line Tool for scraping weather data. Built using Python3, Selenium and Gazpacho.
 # Requirements:
 1. Python 3.
-2. Selenium.
+2. Selenium 3 (https://www.selenium.dev/downloads/).
 3. Gazpacho (https://gazpacho.xyz/).
 5. Web broswer of your choice and its driver (Firefox / Microsoft Edge / Chrome).
 6. Final requirement: Little brain.
