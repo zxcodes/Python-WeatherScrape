@@ -11,7 +11,7 @@ A Command Line Tool for scraping weather data. Built using Python3, Selenium and
 # Key points:
 * You can use any browser as long as it has a web driver and supports selenium.
 * If you're running this directly, make sure you're on the latest version of Microsoft Edge and has its web driver installed.
-* Replace the below path with yours.
+* In that case, just replace the below path with yours and you're good to go.
 ```
 path = r'C:\Users\farma\Downloads\edgedriver\msedgedriver.exe'
 ```
