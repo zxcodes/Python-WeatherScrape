@@ -5,16 +5,18 @@ A Command Line Tool for scraping weather data. Built using Python3, Selenium and
 2. Selenium 3 (https://www.selenium.dev/downloads/).
 3. Gazpacho (https://gazpacho.xyz/).
 5. Web broswer of your choice and its driver (Firefox / Microsoft Edge / Chrome).
-6. Final requirement: Little brain.
+6. Little brain (Important).
 # Browser Used:
 * Microsoft Edge.
 # Key points:
 * You can use any browser as long as it has a web driver and supports selenium.
 * If you're running this directly, make sure you're on the latest version of Microsoft Edge and has its web driver installed.
 * In that case, just replace the below path with yours and you're good to go.
+
 ```
-path = r'C:\Users\farma\Downloads\edgedriver\msedgedriver.exe'
+   path = r'C:\Users\farma\Downloads\edgedriver\msedgedriver.exe'
 ```
+   
 * If you're using Chrome or any other browser, check how it's implemented and modify the code accordingly.
 * BeautifulSoup library can also be used instead of Gazpacho.
 * Also make sure you've installed everything that's mentioned in the requirements. Else it ain't gonna work.
