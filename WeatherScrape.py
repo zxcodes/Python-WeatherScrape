@@ -36,7 +36,7 @@ def fetcher():
     locationStr = driver.find_element_by_xpath(
         '//*[@id="LocationSearch_listbox-0"]')
     print('')
-    print('⚡ Location:',
+    print('⚡ Showing results for:',
           locationStr.text+'.😍')
 
     # Selecting result.
