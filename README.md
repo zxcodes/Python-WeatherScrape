@@ -21,10 +21,10 @@ A Command Line Tool for scraping weather data. Built using Python3, Selenium and
 * BeautifulSoup library can also be used instead of Gazpacho.
 * Also make sure you've installed everything that's mentioned in the requirements. Else it ain't gonna work.
 # Credits:
-* All data has been scraped from: https://weather.com/en-IN/
+* All the data is being scraped from: https://weather.com/en-IN/
 
 # What can be scraped:
-* Once a city name is entered, the following data of that city returns. Including its Air Quality Index:
+ Once a city name is entered, the following data of that city returns. Including its Air Quality Index:
 
 ![pyws](https://user-images.githubusercontent.com/44538497/104462952-2f033100-55d7-11eb-97a2-42f3a4120036.png)
 
