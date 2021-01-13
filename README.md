@@ -26,6 +26,6 @@ A Command Line Tool for scraping weather data. Built using Python3, Selenium and
 # What can be scraped:
 * Once a city name is entered, the following data of that city returns. Including its Air Quality Index:
 
-![image](https://user-images.githubusercontent.com/44538497/103463318-812f9100-4d51-11eb-8798-4cd7be15b632.png)
+![pyws](https://user-images.githubusercontent.com/44538497/104462952-2f033100-55d7-11eb-97a2-42f3a4120036.png)
 
 * Open to suggestions and contributions. Make sure to star the repo.:star:
