@@ -6,7 +6,6 @@ A Command Line Tool for scraping weather data. Built using Python3, Selenium and
 3. Gazpacho (https://gazpacho.xyz/). [![scraper: gazpacho](https://img.shields.io/badge/scraper-gazpacho-C6422C)](https://github.com/maxhumber/gazpacho)
 
 5. Web broswer of your choice and its driver (Firefox / Microsoft Edge / Chrome).
-6. Little brain (Important).
 # Browser Used:
 * Microsoft Edge.
 # Key points:
