@@ -1,5 +1,5 @@
 # Python-WeatherScrape
-A Command Line Tool for scraping weather data. Built using Python3, Selenium and Gazpacho.
+A Command Line Tool for scraping weather details. Built using Python3, Selenium and Gazpacho.
 # Requirements:
 1. Python 3. 
 2. Selenium 3 (https://www.selenium.dev/downloads/).
