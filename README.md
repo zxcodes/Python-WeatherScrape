@@ -14,7 +14,7 @@ A Command Line Tool for scraping weather details. Built using Python3, Selenium 
 * In that case, just replace the below path with yours and you're good to go.
 
 ```
-   path = r'C:\Users\farma\Downloads\edgedriver\msedgedriver.exe'
+   path = 'path/to/your/browser/driver'
 ```
    
 * If you're using Chrome or any other browser, check how it's implemented and modify the code accordingly.
